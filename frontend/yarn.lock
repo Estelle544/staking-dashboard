@@ -7860,7 +7860,7 @@ lodash.foreach@^4.3.0:
   resolved "https://registry.yarnpkg.com/lodash.foreach/-/lodash.foreach-4.5.0.tgz#1a6a35eace401280c7f06dddec35165ab27e3e53"
   integrity sha1-Gmo16s5AEoDH8G3d7DUWWrJ+PlM=
 
-lodash.groupby@4.6.0:
+lodash.groupby@4.6.0, lodash.groupby@^4.6.0:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/lodash.groupby/-/lodash.groupby-4.6.0.tgz#0b08a1dcf68397c397855c3239783832df7403d1"
   integrity sha1-Cwih3PaDl8OXhVwyOXg4Mt90A9E=
@@ -11068,14 +11068,15 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
-simsala@0.0.18:
-  version "0.0.18"
-  resolved "https://registry.yarnpkg.com/simsala/-/simsala-0.0.18.tgz#441f5e6799a896016216f07bbbc0ddf2b5a6e421"
-  integrity sha512-gB3ehpGxigdZ2+riCznVHZk4cQdqFs2c6d+p2UKZJun5KuCoEggG4WcJMGm6iF72q3nx5R8NB3OQWay4XKPN1A==
+simsala@0.0.23:
+  version "0.0.23"
+  resolved "https://registry.yarnpkg.com/simsala/-/simsala-0.0.23.tgz#64be19f476b389a8165f5cdb206f071741692c45"
+  integrity sha512-nHE7C7AAy81hO0Kt42sS9HC+01Cf1kJX0pAbr1wohyqD3RSevletrRg2KBMGt6OgWcdb0wZciGDsGZ4w+qIDZA==
   dependencies:
     axios "^0.18.0"
     commander "^2.20.0"
     inquirer "^6.2.2"
+    lodash.groupby "^4.6.0"
     semver "^6.0.0"
 
 sisteransi@^0.1.1:
