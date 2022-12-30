@@ -114,7 +114,7 @@
     "kill-port": "^1.5.1",
     "live-server": "^1.2.1",
     "live-server-https": "^0.0.2",
-    "nightwatch": "^1.1.13",
+    "nightwatch": "^1.4.0",
     "numeral": "2.0.6",
     "prettier": "^1.18.2",
     "sass": "^1.18.0",
