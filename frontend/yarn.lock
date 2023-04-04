@@ -1050,10 +1050,10 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.5.tgz#dcce4430e64b443ba8945f0290fb564ad5bac6dd"
   integrity sha512-7+2BITlgjgDhH0vvwZU/HZJVyk+2XUlvxXe8dFMedNX/aMkaOq++rMAFXc0tM7ij15QaWlbdQASBR9dihi+bDQ==
 
-"@types/ledgerhq__hw-transport-webusb@4.70.0":
-  version "4.70.0"
-  resolved "https://registry.yarnpkg.com/@types/ledgerhq__hw-transport-webusb/-/ledgerhq__hw-transport-webusb-4.70.0.tgz#8e03b1f8bec52a8291ef41b00470b07f28285788"
-  integrity sha512-7YY+q85pwZfja9foc0RxmcgMwsxbBo9u/Qe9BFg0uKVcF6TZFcBT99+AHWj+40EmXL3BxzK3QB+aoSNed+v8Gg==
+"@types/ledgerhq__hw-transport-webusb@4.70.1":
+  version "4.70.1"
+  resolved "https://registry.yarnpkg.com/@types/ledgerhq__hw-transport-webusb/-/ledgerhq__hw-transport-webusb-4.70.1.tgz#ea80859607a46030f001bce462e1e7443b27ec43"
+  integrity sha512-s+bt/fU5cH7etjLrNRn2LebZZqUL+YHIWciC1T6SUw2kyFpSqQQmjcM81ZrMR/tccQGfYTy3ebrJx9ZK3Mn+HA==
   dependencies:
     "@types/ledgerhq__hw-transport" "*"
     "@types/node" "*"
