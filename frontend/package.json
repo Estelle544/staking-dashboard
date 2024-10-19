@@ -83,7 +83,7 @@
     "@capacitor/ios": "1.1.1",
     "@types/jest": "^23.1.4",
     "@types/ledgerhq__hw-transport-webusb": "4.70.0",
-    "@types/lodash": "4.14.146",
+    "@types/lodash": "4.17.12",
     "@types/lodash.uniqby": "4.7.6",
     "@vue/cli-plugin-babel": "^3.10.0",
     "@vue/cli-plugin-eslint": "^3.10.0",
