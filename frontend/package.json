@@ -84,7 +84,7 @@
     "@types/jest": "^23.1.4",
     "@types/ledgerhq__hw-transport-webusb": "4.70.0",
     "@types/lodash": "4.14.146",
-    "@types/lodash.uniqby": "4.7.6",
+    "@types/lodash.uniqby": "4.7.9",
     "@vue/cli-plugin-babel": "^3.10.0",
     "@vue/cli-plugin-eslint": "^3.10.0",
     "@vue/cli-plugin-pwa": "^3.10.0",
