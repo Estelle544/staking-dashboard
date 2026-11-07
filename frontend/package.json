@@ -61,7 +61,7 @@
     "query-string": "6.11.0",
     "timezone-mock": "^1.0.8",
     "tslib": "1.10.0",
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-chartjs": "3.5.0",
     "vue-class-component": "^7.0.2",
     "vue-clipboard2": "^0.3.0",
